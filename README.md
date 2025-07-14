@@ -1,5 +1,5 @@
-# FormDB-Manager
-Manage web form data directly into database efficiently.
+# WebFormDB
+A modern web application for managing form entries and database records.
 
 # Project Idea  
 This project creates a simple, secure web form that takes a user's name and age, submits it to a PHP server connected to a MySQL database, and displays all stored records on a styled web table. Each record features a toggle button that instantly switches the status between 0 and 1 in the database and reflects the change on the webpage.
